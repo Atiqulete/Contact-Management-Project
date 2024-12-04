@@ -1,0 +1,14 @@
+
+The program includes the following features:
+
+Add Contact: Add a new contact after validating the email and checking for duplicate phone numbers.
+
+View Contacts: Display all saved contacts.
+
+Remove Contact: Delete a contact by phone number.
+
+Update Contact: Update a contact’s information by phone number.
+
+Search Contact: Search contacts by name, email, or phone number.
+
+Exit: Exit the program.
